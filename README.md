@@ -39,7 +39,7 @@ Below is Full Usages of json object
 }
 ```
 
-Note: Cookie should be manual inputed & never use automatically session
+Note: Cookie should be manual inputed & never use automatically session, The json path input should be full path
 
 
 ## securimage tamper have 3 modes
